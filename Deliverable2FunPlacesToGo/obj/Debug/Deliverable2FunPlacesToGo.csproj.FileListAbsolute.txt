@@ -1,0 +1,7 @@
+C:\Users\lisaa\source\repos\Deliverable2FunPlacesToGo\Deliverable2FunPlacesToGo\bin\Debug\Deliverable2FunPlacesToGo.exe.config
+C:\Users\lisaa\source\repos\Deliverable2FunPlacesToGo\Deliverable2FunPlacesToGo\bin\Debug\Deliverable2FunPlacesToGo.exe
+C:\Users\lisaa\source\repos\Deliverable2FunPlacesToGo\Deliverable2FunPlacesToGo\bin\Debug\Deliverable2FunPlacesToGo.pdb
+C:\Users\lisaa\source\repos\Deliverable2FunPlacesToGo\Deliverable2FunPlacesToGo\obj\Debug\Deliverable2FunPlacesToGo.csprojAssemblyReference.cache
+C:\Users\lisaa\source\repos\Deliverable2FunPlacesToGo\Deliverable2FunPlacesToGo\obj\Debug\Deliverable2FunPlacesToGo.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\source\repos\Deliverable2FunPlacesToGo\Deliverable2FunPlacesToGo\obj\Debug\Deliverable2FunPlacesToGo.exe
+C:\Users\lisaa\source\repos\Deliverable2FunPlacesToGo\Deliverable2FunPlacesToGo\obj\Debug\Deliverable2FunPlacesToGo.pdb
